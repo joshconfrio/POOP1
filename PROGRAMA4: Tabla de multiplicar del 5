@@ -1,0 +1,41 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
+/**
+ *
+ * @author poo02alu19
+ */
+public class TablaMultiplicar {
+        
+    public static void main (String[] args){
+        int a = 1 * 5;        
+        int b = 2 * 5;
+        int c = 3 * 5;
+        int d = 4 * 5;
+        int e = 5 * 5;
+        int f = 6 * 5;
+        int g = 7 * 5;
+        int h = 8 * 5;
+        int i = 9 * 5;        
+        int j = 10 * 5;
+
+        System.out.println(a);       
+        System.out.println(b);        
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(g);
+        System.out.println(h);
+        System.out.println(i);
+        System.out.println(j);
+
+
+
+        
+    }
+    
+            
+}
